@@ -1,0 +1,5 @@
+{
+    "staticWebApps.appSubpath": "/site",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.appArtifactSubpath": "/site"
+}
