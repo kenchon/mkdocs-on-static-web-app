@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# deploy-mkdocs-to-static-web-app
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,21 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+> 引用です。
+
+```python
+import numpy as np
+
+print("hello world")
+```
+
+$$
+\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
+$$
+
+!!! note
+    これは NOTE です。
+
+!!! warning
+    これは WARNING です。
