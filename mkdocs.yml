@@ -1,7 +1,8 @@
-site_name: MkLorum
+site_name: MkDocs を Azure Static Web Apps にデプロイしよう
 nav:
   - Home: index.md
-  - About: about.md
+  - MkDocs をセットアップする: mkdocs-setup.md
+  - Azure のセットアップ: azure-setup.md
 theme: material
 markdown_extensions:
   - pymdownx.highlight

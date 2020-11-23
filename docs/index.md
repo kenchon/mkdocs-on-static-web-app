@@ -33,3 +33,10 @@ $$
 
 !!! warning
     これは WARNING です。
+
+## 前提
+
+- Python の開発環境がある
+- VSCode をインストールしている
+- GitHub アカウントを持っている
+- Azure Portal にログインできるアカウントを持っている
