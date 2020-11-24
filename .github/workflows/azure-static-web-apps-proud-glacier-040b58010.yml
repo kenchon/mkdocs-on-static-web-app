@@ -30,7 +30,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs
       - name: Build
-        run: | && mkdocs build --clean
+        run: |
+          pip install mkdocs && pip install mkdocs-material
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
