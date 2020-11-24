@@ -3,7 +3,10 @@ nav:
   - Home: index.md
   - MkDocs をセットアップする: mkdocs-setup.md
   - Azure のセットアップ: azure-setup.md
-theme: material
+  - GitHub Actions のセットアップ: github-actions-setup.md
+theme:
+  name: material
+  language: ja
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
@@ -19,3 +22,5 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
+  search:
+    language: jp
